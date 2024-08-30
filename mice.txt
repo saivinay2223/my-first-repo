@@ -1,5 +1,5 @@
-m mighty
-o outside
-u under
+m mammal
+o optical
+u Unique
 s small
 e endive
